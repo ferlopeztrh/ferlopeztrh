@@ -5,19 +5,26 @@
 
 <br />
 
-Soy **desarrollador fullstack** y me defino como **builder**: me gusta llevar una idea de cero a un producto andando, desde la interfaz hasta la API y la base de datos.
+Desarrollador fullstack especializado en frontend, con experiencia en los sectores **fintech** y **e-commerce**. Llevo productos desde la primera línea de código hasta su versión final en producción, cuidando tanto la arquitectura como la experiencia de quien los usa.
 
-Mi fuerte es el **frontend**. Con React, Next.js y TypeScript armo interfaces cuidadas al detalle, con animaciones y una experiencia de uso que se siente bien. Del lado del servidor trabajo con NestJS y PostgreSQL.
-
-Valoro el código limpio, las arquitecturas mantenibles y las soluciones prácticas.
+- **Frontend de punta a punta.** Arquitectura de aplicaciones, **design systems**, **UI kits** y experiencia de usuario pensados para escalar con el producto y con el equipo.
+- **Ingeniería y análisis.** Resuelvo problemas complejos descomponiéndolos con criterio técnico hasta llegar a soluciones simples, mantenibles y medibles.
+- **Liderazgo técnico.** Construyo y dirijo proyectos desde cero: defino la arquitectura, el stack y las prioridades, y acompaño al equipo hasta la entrega.
+- **Fullstack cuando hace falta.** Del lado del servidor trabajo con NestJS y PostgreSQL, lo que me permite diseñar cada producto de extremo a extremo.
 
 <br />
 
-**Frontend**&emsp;React · Next.js · TypeScript · JavaScript · Astro · Vite · Tailwind · Three.js · GSAP · Framer Motion
-
-**Backend**&emsp;Node.js · NestJS · Express · PostgreSQL · Prisma
-
-**Herramientas**&emsp;Git · GitHub · GitLab · VS Code · Postman · Jira · DBeaver · TablePlus
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Castro%2Cvite%2Ctailwind%2Cthreejs%2Chtml%2Ccss&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Castro%2Cvite%2Ctailwind%2Cthreejs%2Chtml%2Ccss&perline=10&theme=light" alt="TypeScript, JavaScript, React, Next.js, Astro, Vite, Tailwind, Three.js, HTML y CSS" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cnestjs%2Cexpress%2Cpostgres%2Cprisma%2Cgit%2Cgithub%2Cgitlab%2Cvscode%2Cpostman&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs%2Cnestjs%2Cexpress%2Cpostgres%2Cprisma%2Cgit%2Cgithub%2Cgitlab%2Cvscode%2Cpostman&perline=10&theme=light" alt="Node.js, NestJS, Express, PostgreSQL, Prisma, Git, GitHub, GitLab, VS Code y Postman" />
+  </picture>
+</p>
 
 <br />
 
