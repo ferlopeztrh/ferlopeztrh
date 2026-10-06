@@ -1,45 +1,64 @@
-# Hola, soy Fernando López 👋
+<div align="center">
 
-## Sobre mí
-Soy Frontend Developer en BEPSA/Dinelco, especializado en sistemas de procesamiento de pagos y aplicaciones fintech. Trabajo principalmente con React, Next.js y TypeScript, desarrollando interfaces de checkout, gateways de pago y plataformas para desarrolladores.
+<img src="./assets/header.svg" width="100%" alt="Fernando López, Frontend Developer en BEPSA / Dinelco" />
 
-Me enfoco en crear experiencias de usuario fluidas y seguras para transacciones financieras, integrando diversas APIs de pago y sistemas de autenticación. También tengo experiencia en Backend con NestJS y PostgreSQL.
+<br />
 
-Valoro el código limpio, las arquitecturas mantenibles y las soluciones prácticas. Siempre estoy aprendiendo nuevas tecnologías y perfeccionando mis skills en el sector.
+<p><a href="https://www.linkedin.com/in/fernando-lopez-b80182290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:ferlopeztrh@gmail.com"><img src="https://img.shields.io/badge/Correo-0d1430?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a> <a href="https://wa.me/595991703989"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a></p>
 
-## Tecnologías
-### Frontend
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=white)](https://astro.build/)
-[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=black)](https://greensock.com/gsap/)
-[![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF007A?style=flat&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)](https://threejs.org/)
+</div>
 
-### Backend
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io/)
+<br />
 
-### Herramientas
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/)
-[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Table Plus](https://img.shields.io/badge/-Table_Plus-03B3E4?style=flat&logo=tableplus&logoColor=white)](https://tableplus.com/)
-[![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
+<table>
+<tr>
+<td width="52%" valign="top">
 
-## Contacto
-- **Correo:** [ferlopeztrh@gmail.com](mailto:ferlopeztrdev@gmail.com)
-- **LinkedIn:** [Fernando López](https://www.linkedin.com/in/fernando-lopez-b80182290/)
-- **Teléfono:** +595 991 703989
+### Sobre mí
+
+Soy **Frontend Developer en BEPSA / Dinelco**, especializado en sistemas de procesamiento de pagos y aplicaciones fintech. Construyo interfaces de **checkout, pasarelas de pago y plataformas para desarrolladores** con React, Next.js y TypeScript.
+
+Me enfoco en experiencias fluidas y seguras para transacciones financieras: integración de APIs de pago, autenticación y flujos donde cada detalle importa. También trabajo el backend con **NestJS y PostgreSQL**.
+
+Valoro el código limpio, las arquitecturas mantenibles y las soluciones prácticas. Siempre estoy aprendiendo algo nuevo.
+
+</td>
+<td width="48%" valign="top" align="center">
+
+<img src="./assets/terminal.svg" width="100%" alt="Resumen en código: rol, empresa, foco y stack" />
+
+</td>
+</tr>
+</table>
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,vite,tailwind,threejs,html,css&theme=dark&perline=10" alt="Frontend" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,git,github,gitlab,vscode,postman&theme=dark&perline=10" alt="Backend y herramientas" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-0d1430?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0d1430?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Jira-0d1430?style=flat-square&logo=jira&logoColor=2684FF" alt="Jira" />
+  <img src="https://img.shields.io/badge/TablePlus-0d1430?style=flat-square&logo=tableplus&logoColor=03B3E4" alt="TablePlus" />
+  <img src="https://img.shields.io/badge/DBeaver-0d1430?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
+</p>
+
+### Actividad
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Calendario de contribuciones en 3D" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferlopeztrh/ferlopeztrh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferlopeztrh/ferlopeztrh/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ferlopeztrh/ferlopeztrh/output/github-snake-dark.svg" width="100%" alt="La serpiente recorriendo el calendario de contribuciones" />
+  </picture>
+</p>
+
+<img src="./assets/footer.svg" width="100%" alt="Gracias por pasar" />
